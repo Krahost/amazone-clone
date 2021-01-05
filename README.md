@@ -10,4 +10,4 @@ You will also see any lint errors in the console.
 
 by Joe React :rocket: 
 
-This is my channel : `https://www.youtube.com/channel/UCMP88d_uklhyAFkvM06182g` make sure to subscribe to my channel for more React tutorials. Thank you
+This is my channel : https://www.youtube.com/channel/UCMP88d_uklhyAFkvM06182g make sure to subscribe to my channel for more React tutorials. Thank you
